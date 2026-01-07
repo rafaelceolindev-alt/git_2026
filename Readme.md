@@ -88,6 +88,8 @@ Pessoas responsáveis; Rafa
 
 13\. git branch -D <nova\_branch>
 
+Se liga no site e agenda para ficar por dentro de tudo que vai rolar em 2026
+[teomewhy.org](https://cursos.teomewhy.org/trilhas)
 
 Segue o link Curso git 2026
 [curso git 2026] (https://youtube.com/teomewhy)
