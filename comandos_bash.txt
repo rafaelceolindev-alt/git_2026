@@ -3,3 +3,5 @@ cd - move entre diretórios
 pwd - mostra diretório de trabalho
 cat - exibe conteúdo do arquivo
 rm - 
+
+rm-rf sadasdasdasdasdasd
