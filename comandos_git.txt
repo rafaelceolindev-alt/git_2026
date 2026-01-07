@@ -1,0 +1,3 @@
+git init . - cria um repo git na pasta atual
+git status mostra o status
+git commit -m -  faz commit do que vai ser comitado
