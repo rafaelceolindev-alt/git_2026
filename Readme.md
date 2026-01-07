@@ -89,4 +89,6 @@ Pessoas responsáveis; Rafa
 13\. git branch -D <nova\_branch>
 
 
-
+Segue o link Curso git 2026
+[curso git 2026] (https://youtube.com/teomewhy)
+é gratis 
