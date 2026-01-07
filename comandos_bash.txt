@@ -5,3 +5,5 @@ cat - exibe conteúdo do arquivo
 rm - 
 
 rm-rf sadasdasdasdasdasd
+
+fodase
