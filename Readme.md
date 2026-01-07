@@ -2,5 +2,9 @@
 
 
 
-Curso para iniciantes para versionamento de codigos
+Curso para iniciantes para versionamento de códigos.
+
+
+
+Pessoas responsáveis; Rafa
 
